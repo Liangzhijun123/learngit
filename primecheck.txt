@@ -1,0 +1,6 @@
+fun checkPrime(num n){
+    if n==1 OR n == 2
+
+        return true
+    for i = 3; i< sqrt(n), i++
+}
